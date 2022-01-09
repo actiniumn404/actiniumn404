@@ -56,6 +56,16 @@
 <a href="https://replit.com/@andrewchen51/" target="_blank">
   <img height="36" title="Pycharm" src="https://replit.com/public/icons/favicon-196.png">
 </a>
+
+### My GitHub Stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
+<br>
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=radical&hide_border=true)
+
+### Featured Projects
+[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Annoyingly-Uncodeable-Language&theme=radical)](https://github.com/actiniumn404/Annoyingly-Uncodeable-Language)
+[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Jeopardy&theme=radical)](https://github.com/actiniumn404/Jeopardy)
+[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Among-You&theme=radical)](https://github.com/actiniumn404/Among-You)
 <!--
 **actiniumn404/actiniumn404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
