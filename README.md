@@ -1,7 +1,6 @@
-# Hi, I'm Actiniumn404👋
-👨🏻‍💻 Front end Web Developer
-👨🏻‍💻 Back end developer
+<img align="right" src="https://avatars.githubusercontent.com/u/83673744" style="border-radius:20%;">
 
+# Hi, I'm Actiniumn404👋
 ### Languages, Libaries, and Frameworks I use
 <div>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -55,6 +54,9 @@
 ### Profiles
 <a href="https://replit.com/@andrewchen51/" target="_blank">
   <img height="36" title="Pycharm" src="https://replit.com/public/icons/favicon-196.png">
+</a>
+<a href="mailto:actinium.coder.928@gmail.com" target="_blank">
+  <img height="36" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1920px-Gmail_icon_%282020%29.svg.png">
 </a>
 
 ### My GitHub Stats
