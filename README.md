@@ -60,6 +60,9 @@
 </a>
 
 ### My GitHub Stats
+
+Last Refreshed: 3/26/2022
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
 <br>
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=radical&hide_border=true)
