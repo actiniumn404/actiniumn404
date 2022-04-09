@@ -60,11 +60,11 @@
 </a>
 
 ### Statistics
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Factiniumn404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Factiniumn404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=false)
 <br>
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=dark&hide_border=true)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=dark&hide_border=false)
 
 
 ### Featured Projects
