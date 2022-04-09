@@ -59,18 +59,18 @@
   <img height="36" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1920px-Gmail_icon_%282020%29.svg.png">
 </a>
 
-### My GitHub Stats
+### Statistics
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Factiniumn404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Last Refreshed: 3/26/2022
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=radical&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=actiniumn404&hide=issues&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=24.5&hide_border=true)
 <br>
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=radical&hide_border=true)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=actiniumn404&theme=dark&hide_border=true)
+
 
 ### Featured Projects
-[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Annoyingly-Uncodeable-Language&theme=radical)](https://github.com/actiniumn404/Annoyingly-Uncodeable-Language)
-[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Jeopardy&theme=radical)](https://github.com/actiniumn404/Jeopardy)
-[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Among-You&theme=radical)](https://github.com/actiniumn404/Among-You)
+[![AUL](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Annoyingly-Uncodeable-Language&theme=dark)](https://github.com/actiniumn404/Annoyingly-Uncodeable-Language)
+[![Jeopardy](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Jeopardy&theme=dark)](https://github.com/actiniumn404/Jeopardy)
+[![Among You](https://github-readme-stats.vercel.app/api/pin/?username=actiniumn404&repo=Among-You&theme=dark)](https://github.com/actiniumn404/Among-You)
 <!--
 **actiniumn404/actiniumn404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
