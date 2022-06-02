@@ -57,7 +57,7 @@
 </a>
 <a href="mailto:actinium.coder.928@gmail.com" target="_blank">
   <img height="36" title="Email" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1920px-Gmail_icon_%282020%29.svg.png">
-</a>
+</a> (This is my alt email so DON'T SPAM ME)
 
 ### Statistics
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Factiniumn404&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
